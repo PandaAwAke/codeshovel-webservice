@@ -11,6 +11,8 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.4.RELEASE</version>
+
+        <relativePath/>
     </parent>
 
     <repositories>
@@ -36,7 +38,7 @@
         <dependency>
             <groupId>com.github.ataraxie</groupId>
             <artifactId>codeshovel</artifactId>
-            <version>webservice-repair-SNAPSHOT</version>
+            <version>webservice-repair-3749882912-1</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
